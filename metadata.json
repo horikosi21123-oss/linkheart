@@ -1,0 +1,5 @@
+{
+  "name": "LinkHeart - Matching App MVP",
+  "description": "A modern, mobile-first matching application featuring swipe discovery, real-time messaging simulation, and admin controls. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
